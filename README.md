@@ -15,7 +15,7 @@
     <li> git push -u origin main </li> <!-- Actualiza la version actual de nuestra carpeta en el repositorio de nuestra cuenta -->
 </ol>
 
-<h1> Verificar el estatus del repositorio </hi>
+<h1> Verificar el estatus del repositorio </h1>
 <ol>
     <li> git status </li> <!-- Muestra el estado -->
 </ol>
