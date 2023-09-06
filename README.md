@@ -8,9 +8,14 @@
     <li> git push -u origin master </li> <!-- Actualiza la version actual de nuestra carpeta en el repositorio de nuestra cuenta -->
 </ol>
 
-<h1> Generar una nueva version y actualizar el repositorio </hi>
+<h1> Generar una nueva version y actualizar el repositorio </h1>
 <ol>
     <li> git add </li> <!-- Inicializa un repositorio vacio en nuestra carpeta -->
     <li> git commit -m "Un nuevo mensaje" </li> <!-- Crea una version nuev con los cambios actuales -->
     <li> git push -u origin main </li> <!-- Actualiza la version actual de nuestra carpeta en el repositorio de nuestra cuenta -->
+</ol>
+
+<h1> Verificar el estatus del repositorio </hi>
+<ol>
+    <li> git status </li> <!-- Muestra el estado -->
 </ol>
