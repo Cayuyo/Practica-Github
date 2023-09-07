@@ -16,6 +16,11 @@
 </ol>
 
 <h1> Verificar el estatus del repositorio </h1>
-<ol>
+<ul>
     <li> git status </li> <!-- Muestra el estado -->
-</ol>
+</ul>
+
+<h1> Trae(descarga) los cambios en el proyecto al local </h1>
+<ul>
+    <li> git pull </li> <!-- Descarga los archivos a la maquina local -->
+</ul>
